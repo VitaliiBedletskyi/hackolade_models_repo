@@ -22,6 +22,14 @@
             },
             "hackoladeMeta": {
                 "validationErrors": {}
+            },
+            "referenceDiff": {
+                "properties": [
+                    {
+                        "GUID": "e5945a92-7dc7-4795-8378-ee1dc6d6212a",
+                        "comments": "Small simple description."
+                    }
+                ]
             }
         }
     ],
@@ -306,7 +314,7 @@
             "normalization": true
         }
     ],
-    "lastModifTS": "2023-11-06T10:51:46.042Z",
+    "lastModifTS": "2023-11-07T10:04:18.666Z",
     "persistenceSchemaVersion": "6",
     "isCreatedByPlugin": true,
     "pluginInformation": {
